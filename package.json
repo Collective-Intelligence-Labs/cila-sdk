@@ -1,5 +1,5 @@
 {
-  "name": "cila-sdk",
+  "name": "@cilabsai/cila-sdk",
   "version": "1.0.0",
   "description": "CILA Omnichain SDK",
   "main": "index.js",
@@ -9,12 +9,24 @@
   "scripts": {
     "test": "test"
   },
-  "author": "",
+  "author": "Collective Intelligence Labs",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.7",
     "chai": "^5.0.3",
     "ethers": "^6.10.0",
     "mocha": "^10.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Collective-Intelligence-Labs/cila-sdk.git"
+  },
+  "keywords": [
+    "omnichain"
+  ],
+  "bugs": {
+    "url": "https://github.com/Collective-Intelligence-Labs/cila-sdk/issues"
+  },
+  "homepage": "https://github.com/Collective-Intelligence-Labs/cila-sdk#readme"
 }
