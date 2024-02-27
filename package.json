@@ -20,7 +20,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Collective-Intelligence-Labs/cila-sdk.git"
+    "url": "https://github.com/Collective-Intelligence-Labs/cila-sdk"
   },
   "keywords": [
     "omnichain"
